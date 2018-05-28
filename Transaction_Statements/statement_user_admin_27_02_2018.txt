@@ -1,0 +1,7 @@
+Type: BankAccount
+Kind of transaction: Withdrawal
+Username: admin
+Date of transaction: 2/27/2018 6:03:26 PM
+Amount: 5,00 €
+Transacted to / from: user1
+

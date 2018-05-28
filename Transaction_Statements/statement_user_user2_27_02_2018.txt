@@ -1,0 +1,7 @@
+Type: BankAccount
+Kind of transaction: Deposit
+Username: user2
+Date of transaction: 2/27/2018 6:04:48 PM
+Amount: 5,00 €
+Transacted to / from: user2
+
